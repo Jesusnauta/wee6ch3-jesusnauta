@@ -1,5 +1,5 @@
-import React from "react";
-//import "./App.css";
+/*import React from "react";
+import "./App.css";
 
 function App() {
   return (
@@ -52,3 +52,4 @@ function App() {
 }
 
 export default App;
+*/
